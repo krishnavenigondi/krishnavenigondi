@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:1D9E75&height=200&section=header&text=Krishnaveni%20Gondi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AWS%20Consultant%20%7C%20Cloud%20Architect%20%7C%20Serverless%20%26%20AI%20Enthusiast&descAlignY=60&descColor=d0f5ea" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnaveni-gondi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnaveni-gondi-505109210/)
 [![Email](https://img.shields.io/badge/Email-krishnavenigondi7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnavenigondi7@gmail.com)
 [![Location](https://img.shields.io/badge/Location-India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
@@ -168,7 +168,7 @@ If you're building something ambitious on AWS — or want to talk cloud, automat
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnaveni-gondi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnaveni-gondi-505109210/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnavenigondi7@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:1D9E75&height=100&section=footer" />
