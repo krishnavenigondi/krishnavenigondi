@@ -152,9 +152,8 @@ Vignan's Nirula Institute of Technology & Science, Guntur · 2017
 
 <div align="center">
 
-![Krishnaveni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnaveni-gondi&show_icons=true&theme=algolia&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaveni-gondi&layout=compact&theme=algolia&hide_border=true)
+![Krishnaveni's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=krishnaveni-gondi&show_icons=true&theme=algolia&hide_border=true&count_private=true)
+](https://github.com/krishnavenigondi)
 
 </div>
 
